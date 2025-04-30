@@ -1,4 +1,4 @@
-package WopiHostApplication.File.Structure_Dp.BrIdge_Dp;
+package com.LowLevelDesign.SystemDesign.Design.Structure_Design_Pattern.BrIdge_Dp;
 
 public class Bridge_Dp {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package WopiHostApplication.File.Structure_Dp.Adapter_dp;
+package com.LowLevelDesign.SystemDesign.Design.Structure_Design_Pattern.Adapter_dp;
 
-public class AdapterDp {
+class AdapterDp {
     public static void main(String[] args) {
         WeightMachineAdapter weightMachineAdapter = new WeightMachineAdapterImpl(new WeightMachineForBabies());
         System.out.println(weightMachineAdapter.getWeightInKg());
