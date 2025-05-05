@@ -27,7 +27,7 @@ public class HumanPlayerStrategies implements PlayerStrategies{
                 Position move = new Position(row,col);
                 // Validates the player's input.
                 // If the move is valid, returns the position.
-                if (board.)
+                if (board.is)
             }
         }
 
